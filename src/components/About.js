@@ -10,7 +10,7 @@ const About = () => {
                                 <h1 className="animated animated-text">
                                     <span className="mr-2 text-2xl font-bold" >Salut, je suis Sam</span>
                                 </h1>
-                                <h2 className="animated animated-text p-1">
+                                <h2 className="animated animated-text text-base p-2">
                                         <div className="animated-info">
                                             <span className="animated-item">SANDJA</span>
                                             <span className="animated-item">Développeur Web </span>
