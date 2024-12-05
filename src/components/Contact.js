@@ -1,7 +1,7 @@
 const Contact = () => {
     return ( 
              <section className="contact py-5" id="contact">
-                <div className="container">
+                <div className="container p-5">
                     <div className="row">
                     <div className="col-lg-5 mr-lg-5 col-12">
                         <div className="google-map w-100">

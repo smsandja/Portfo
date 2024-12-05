@@ -2,11 +2,11 @@ const Cv = () => {
     return ( 
         <div className="cv">
             <section className="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
-                <div className="container">
-                <h2 className="text-center text-3xl text-bold">Mon parcours</h2>
+                <div className="container p-5">
+                <h2 className="text-center text-5xl text-bold mb-4">Mon parcours</h2>
                     <div className="row">
                         <div className="text-sm col-lg-6 col-12">
-                        <h3 className="mb-4 text-info text-2xl text-bold">Experiences</h3>
+                        <h3 className="mb-4 text-info text-3xl text-bold">Experiences</h3>
                             <div className="timeline">
                                 <div className="timeline-wrapper">
                                     <div className="timeline-yr">
@@ -51,7 +51,7 @@ const Cv = () => {
                         </div>
 
                         <div className="col-lg-6 col-12">
-                        <h3 className="mb-4 mobile-mt-2 text-warning text-2xl text-bold">Formations</h3>
+                        <h3 className="mb-4 mobile-mt-2 text-warning text-3xl text-bold">Formations</h3>
 
                             <div className="timeline">
                                 <div className="timeline-wrapper">
