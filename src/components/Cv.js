@@ -67,7 +67,7 @@ const Cv = () => {
                                         <span>2016</span>
                                     </div>
                                     <div className="timeline-info">
-                                <h5><span>BAC D</span><small>Lycée Moderne le Jourdain"</small></h5>
+                                    <h5 className="text-2xl"><span>BAC D</span><small>Lycée Moderne le Jourdain"</small></h5>
                                         <p>Mathématique et science de la nature, </p>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@ const Cv = () => {
                                         <span>2018</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5><span>BTS en Informatique de Gestion</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
+                                        <h5 className="text-2xl"><span>BTS en Informatique de Gestion</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
                                         <p>Thème de soutanence "Gestion et suivi des stages : Cas de Radio Lomé "</p>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@ const Cv = () => {
                                         <span>2019</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5><span>Licence en Génie Logiciel</span><small>ESA</small></h5>
+                                        <h5 className="text-2xl"><span>Licence en Génie Logiciel</span><small>ESA</small></h5>
                                         <p>Thème de soutanence "Mise en place d'une application de gestion d'une boutique de ventes en ligne : Cas de Balouki Shop "</p>
                                     </div>
                                 </div>
