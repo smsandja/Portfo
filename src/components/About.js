@@ -1,7 +1,6 @@
 import "../App.css";
 const About = () => {
     return ( 
-        <div className="about">
             <section className="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
                 <div className="container">
                     <div className="row">
@@ -32,7 +31,6 @@ const About = () => {
                     </div>
                 </div>
             </section>
-        </div>
      );
 }
  

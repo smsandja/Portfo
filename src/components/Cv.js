@@ -2,11 +2,9 @@ const Cv = () => {
     return ( 
         <div className="cv">
             <section className="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
-            
                 <div className="container">
-                <h2 className="text-center text-sm">Mon parcours</h2>
+                <h2 className="text-center text-xl">Mon parcours</h2>
                     <div className="row">
-
                         <div className="text-sm col-lg-6 col-12">
                         <h3 className="mb-4 text-info">Experiences</h3>
                             <div className="timeline">

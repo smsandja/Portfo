@@ -1,6 +1,5 @@
 const Contact = () => {
     return ( 
-        <div className="contact">
              <section className="contact py-5" id="contact">
                 <div className="container">
                     <div className="row">
@@ -53,7 +52,6 @@ const Contact = () => {
                 </div>
             </section>
 
-        </div>
      );
 }
  
