@@ -1,13 +1,14 @@
 const Cv = () => {
     return ( 
         <div className="cv">
-            <h2 className="text-center text-sm">Mon parcours</h2>
             <section className="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
+            
                 <div className="container">
+                <h2 className="text-center text-sm">Mon parcours</h2>
                     <div className="row">
 
                         <div className="text-sm col-lg-6 col-12">
-                        <h3 className="mb-4 ">Experiences</h3>
+                        <h3 className="mb-4 text-info">Experiences</h3>
                             <div className="timeline">
                                 <div className="timeline-wrapper">
                                     <div className="timeline-yr">
@@ -52,7 +53,7 @@ const Cv = () => {
                         </div>
 
                         <div className="col-lg-6 col-12">
-                        <h3 className="mb-4 mobile-mt-2">Formations</h3>
+                        <h3 className="mb-4 mobile-mt-2 text-warning">Formations</h3>
 
                             <div className="timeline">
                                 <div className="timeline-wrapper">

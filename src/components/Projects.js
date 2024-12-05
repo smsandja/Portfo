@@ -14,9 +14,9 @@ const Projects = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-11 text-center mx-auto col-12">
-                            <div className="col-lg-8 mx-auto">
+                            <div>
                                 <h2 className="mb-10">Les differents projets que j'ai realisé</h2>
-                                <Carousel className="w-60">
+                                <Carousel className="w-85">
                                     {projets.map((projet)=>(
                                         <div key={projet.id}>
                                             <img src={projet.img} alt="img pro" />

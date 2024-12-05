@@ -12,7 +12,7 @@ const Navbar = () => {
                     </button>
 
                     <div classNmae="collapse navbar-collapse" id="navbarNav">
-                        <ul className="navbar-nav mx-auto">
+                        <ul className="navbar-nav mx-auto text-cyan-600">
                             <li classNmae="nav-item">
                                 <a href="#about" className="nav-link"><span data-hover="About">A-propos</span></a>
                             </li>
