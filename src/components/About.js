@@ -7,7 +7,7 @@ const About = () => {
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
                             <div className="about-text ">
                                 <h5 className="text-info py-12 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
-                                <h1 className="animated animated-text p-2 ">
+                                <h1 className="animated animated-text">
                                     <span className="mr-2 mb-4 text-2xl font-bold" >Salut, je suis</span>
                                         <div className="animated-info">
                                             <span className="animated-item">Sam SANDJA</span>
@@ -15,6 +15,12 @@ const About = () => {
                                             <span className="animated-item">web</span>
                                         </div>
                                 </h1>
+                                <h2 className="animated animated-text p-4">
+                                        <div className="animated-info">
+                                            <span className="animated-item">Sam SANDJA</span>
+                                            <span className="animated-item">Développeur Web </span>
+                                        </div>
+                                </h2>
                                 <p></p><p></p>
                                 <p className="presentation mb-4"> Spécialisé dans la création de sites modernes, performants et adaptés à vos besoins, je m'engage à donner vie à vos idées en ligne. Découvrez ici mes projets, compétences et collaborations. Bonne visite !"</p>
                                 <div className="custom-btn-group mt-4">
