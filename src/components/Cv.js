@@ -14,7 +14,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                         <h5 className="text-xl text-semibold"><span>Développeur front/fullstack</span><small>Build IT(2023-Aujourd'hui)</small></h5>
-                                        <p className="text-sm">
+                                        <p className="text-sm text-black">
                                                 <li>Accompagnement à la digitalisation (Analyse de projets et rédactions des cahiers de charges)</li>
                                                 <li>Développement et maintenance de sites web</li>
                                                 <li>Conception de maquettes</li>
@@ -27,7 +27,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                         <h5 className="text-xl text-semibold"><span>Informaticien - chef section CIPLEV OTI 2</span><small>CIPLEV-MSPC(2020-Aujourd'hui)</small></h5>
-                                        <p className="text-sm">
+                                        <p className="text-sm text-black">
                                         <li>Chef section CIPLEV OTI2, responsable de la mise en œuvre du programme de
                                         prévention et de lutte contre extrémisme violent : Gestion des données, gestion des
                                         besoins et exigences du CIPLEV auprès des acteurs locaux et partenaires (Plan
@@ -48,7 +48,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                         <h5 className="text-xl text-semibold"><span>Développeur front-end</span><small>Digiket-Afrik(Mars 2019- Aout 2019)</small></h5>
-                                        <p className="text-sm"> 
+                                        <p className="text-sm text-black"> 
                                             <li>Accompagnement à la digitalisation (Analyse de projets et rédactions des cahiers de charges)</li>
                                             <li>Développement et maintenance de sites web</li>
                                             <li>Conception de maquettes</li>
@@ -68,7 +68,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                     <h5 className="text-xl text-semibold"><span>BAC D</span><small>Lycée Moderne "le Jourdain"</small></h5>
-                                        <p className="text-sm">Mathématique et science de la nature, </p>
+                                        <p className="text-sm text-black">Mathématique et science de la nature, </p>
                                     </div>
                                 </div>
 
@@ -78,7 +78,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                         <h5 className="text-xl text-semibold"><span>BTS en Informatique de Gestion</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
-                                        <p className="text-sm">Thème de soutanence "Gestion et suivi des stages : Cas de Radio Lomé "</p>
+                                        <p className="text-sm text-black">Thème de soutanence "Gestion et suivi des stages : Cas de Radio Lomé "</p>
                                     </div>
                                 </div>
                                 
@@ -88,7 +88,7 @@ const Cv = () => {
                                     </div>
                                     <div className="timeline-info">
                                         <h5 className="text-xl text-semibold"><span>Licence en Génie Logiciel</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
-                                        <p className="text-sm">Thème de soutanence "Mise en place d'une application de gestion d'une boutique de ventes en ligne : Cas de Balouki Shop "</p>
+                                        <p className="text-sm text-black">Thème de soutanence "Mise en place d'une application de gestion d'une boutique de ventes en ligne : Cas de Balouki Shop "</p>
                                     </div>
                                 </div>
 
