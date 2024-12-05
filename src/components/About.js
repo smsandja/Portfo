@@ -8,16 +8,11 @@ const About = () => {
                             <div className="about-text ">
                                 <h5 className="text-info py-12 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
                                 <h1 className="animated animated-text">
-                                    <span className="mr-2 mb-4 text-2xl font-bold" >Salut, je suis</span>
-                                        <div className="animated-info">
-                                            <span className="animated-item">Sam SANDJA</span>
-                                            <span className="animated-item">Développeur </span>
-                                            <span className="animated-item">web</span>
-                                        </div>
+                                    <span className="mr-2 text-2xl font-bold" >Salut, je suis Sam</span>
                                 </h1>
-                                <h2 className="animated animated-text p-4">
+                                <h2 className="animated animated-text p-1">
                                         <div className="animated-info">
-                                            <span className="animated-item">Sam SANDJA</span>
+                                            <span className="animated-item">SANDJA</span>
                                             <span className="animated-item">Développeur Web </span>
                                         </div>
                                 </h2>
