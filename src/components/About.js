@@ -6,7 +6,7 @@ const About = () => {
                     <div className="row">
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
                             <div className="about-text">
-                                <h5 className="text-info mb-10">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
+                                <h5 className="text-info">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
                                 <h1 className="animated animated-text">
                                     <span className="mr-2">Salut, je suis</span>
                                         <div className="animated-info">
@@ -16,7 +16,7 @@ const About = () => {
                                         </div>
                                 </h1>
                                 <p></p><p></p>
-                                <p> Spécialisé dans la création de sites modernes, performants et adaptés à vos besoins, je m'engage à donner vie à vos idées en ligne. Découvrez ici mes projets, compétences et collaborations. Bonne visite !"</p>
+                                <p className="presentation"> Spécialisé dans la création de sites modernes, performants et adaptés à vos besoins, je m'engage à donner vie à vos idées en ligne. Découvrez ici mes projets, compétences et collaborations. Bonne visite !"</p>
                                 <div className="custom-btn-group mt-4">
                                 <a href="#project" className="btn mr-lg-2 custom-btn"> Projets</a>
                                 <a href="#contact" className="btn custom-btn custom-btn-bg custom-btn-link">Obtenez un devis gratuit</a>
