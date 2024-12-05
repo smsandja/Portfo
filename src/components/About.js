@@ -14,6 +14,7 @@ const About = () => {
                                         <div className="animated-info">
                                             <span className="animated-item">Sam SANDJA</span>
                                             <span className="animated-item">Développeur Web </span>
+                                            <span className="animated-item">Scrum Master </span>
                                         </div>
                                 </h2>
                                 <p></p><p></p>
