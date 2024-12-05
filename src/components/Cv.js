@@ -13,7 +13,7 @@ const Cv = () => {
                                         <span>Freelance</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5><span>Développeur front/fullstack</span><small>Build IT(2023-Aujourd'hui)</small></h5>
+                                        <h5 className="text-xl text-semibold"><span>Développeur front/fullstack</span><small>Build IT(2023-Aujourd'hui)</small></h5>
                                         <p>
                                                 <li>Accompagnement à la digitalisation (Analyse de projets et rédactions des cahiers de charges)</li>
                                                 <li>Développement et maintenance de sites web</li>
@@ -26,7 +26,7 @@ const Cv = () => {
                                         <span>CDI</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5><span>Informaticien - chef section CIPLEV OTI 2</span><small>CIPLEV-MSPC(2020-Aujourd'hui)</small></h5>
+                                        <h5 className="text-xl text-semibold"><span>Informaticien - chef section CIPLEV OTI 2</span><small>CIPLEV-MSPC(2020-Aujourd'hui)</small></h5>
                                         <p>
                                         <li>Chef section CIPLEV OTI2, responsable de la mise en œuvre du programme de
                                         prévention et de lutte contre extrémisme violent : Gestion des données, gestion des
@@ -47,7 +47,7 @@ const Cv = () => {
                                         <span>CDD</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5><span>Développeur front-end</span><small>Digiket-Afrik(Mars 2019- Aout 2019)</small></h5>
+                                        <h5 className="text-xl text-semibold"><span>Développeur front-end</span><small>Digiket-Afrik(Mars 2019- Aout 2019)</small></h5>
                                         <p> 
                                             <li>Accompagnement à la digitalisation (Analyse de projets et rédactions des cahiers de charges)</li>
                                             <li>Développement et maintenance de sites web</li>
@@ -67,7 +67,7 @@ const Cv = () => {
                                         <span>2016</span>
                                     </div>
                                     <div className="timeline-info">
-                                    <h5 className="text-2xl"><span>BAC D</span><small>Lycée Moderne le Jourdain"</small></h5>
+                                    <h5 className="text-xl text-semibold"><span>BAC D</span><small>Lycée Moderne le Jourdain"</small></h5>
                                         <p>Mathématique et science de la nature, </p>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@ const Cv = () => {
                                         <span>2018</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5 className="text-2xl"><span>BTS en Informatique de Gestion</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
+                                        <h5 className="text-xl text-semibold"><span>BTS en Informatique de Gestion</span><small>Ecole Superieure des Affaires(ESA)</small></h5>
                                         <p>Thème de soutanence "Gestion et suivi des stages : Cas de Radio Lomé "</p>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@ const Cv = () => {
                                         <span>2019</span>
                                     </div>
                                     <div className="timeline-info">
-                                        <h5 className="text-2xl"><span>Licence en Génie Logiciel</span><small>ESA</small></h5>
+                                        <h5 className="text-xl text-semibold"><span>Licence en Génie Logiciel</span><small>ESA</small></h5>
                                         <p>Thème de soutanence "Mise en place d'une application de gestion d'une boutique de ventes en ligne : Cas de Balouki Shop "</p>
                                     </div>
                                 </div>
