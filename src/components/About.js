@@ -8,9 +8,9 @@ const About = () => {
                             <div className="about-text ">
                                 <h5 className="text-info py-4 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
                                 <h1>
-                                    <span className="mr-2 text-xl font-bold" >Salut, je suis</span>
+                                    <span className="mr-2 text-3xl font-bold" >Salut, je suis</span>
                                 </h1>
-                                <h2 className="animated animated-text text-2xl p-3">
+                                <h2 className="animated animated-text text-4xl p-3">
                                         <div className="animated-info">
                                             <span className="animated-item">Sam SANDJA</span>
                                             <span className="animated-item">Développeur Web </span>
