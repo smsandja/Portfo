@@ -6,7 +6,7 @@ const About = () => {
                     <div className="row">
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
                             <div className="about-text">
-                                <h5 className="text-info">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
+                                <h5 className="text-info py-5">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
                                 <h1 className="animated animated-text">
                                     <span className="mr-2">Salut, je suis</span>
                                         <div className="animated-info">
