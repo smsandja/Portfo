@@ -6,7 +6,7 @@ const Contact = () => {
                     <div className="row">
                     <div className="col-lg-5 mr-lg-5 col-12">
                         <div className="google-map w-100">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d991.6043942692032!2d1.1736460385888123!3d6.208524371941429!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m3!3m2!1d6.208921699999999!2d1.1738096999999998!4m5!1s0x1023e1c113185419%3A0x3224b5422caf411d!2zTG9tw6k!3m2!1d6.129557699999999!2d1.2196502!5e0!3m2!1sfr!2stg!4v1733401019818!5m2!1sfr!2stg" width="400" height="300"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                        </div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d991.6043942692032!2d1.1736460385888123!3d6.208524371941429!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m3!3m2!1d6.208921699999999!2d1.1738096999999998!4m5!1s0x1023e1c113185419%3A0x3224b5422caf411d!2zTG9tw6k!3m2!1d6.129557699999999!2d1.2196502!5e0!3m2!1sfr!2stg!4v1733401019818!5m2!1sfr!2stg" title="localisation" width="400" height="300"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 
                         <div className="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
                             <div className="contact-info-item">

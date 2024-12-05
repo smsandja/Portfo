@@ -26,7 +26,7 @@ const About = () => {
                         </div>
                         <div className="col-lg-5 col-md-12 col-12">
                             <div className="about-image svg">
-                                <img src="images/undraw/vector.jpg" className="img-fluid" alt="svg image" />
+                                <img src="images/undraw/vector.jpg" className="img-fluid" alt="svg" />
                             </div>
                         </div>
                     </div>
