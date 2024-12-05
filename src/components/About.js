@@ -7,7 +7,7 @@ const About = () => {
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
                             <div className="about-text ">
                                 <h5 className="text-info py-12 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
-                                <h1 className="animated animated-text">
+                                <h1>
                                     <span className="mr-2 text-2xl font-bold" >Salut, je suis Sam</span>
                                 </h1>
                                 <h2 className="animated animated-text text-base p-2">
