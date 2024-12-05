@@ -7,8 +7,8 @@ const About = () => {
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
                             <div className="about-text ">
                                 <h5 className="text-info py-10 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
-                                <h1 className="animated animated-text mb-4">
-                                    <span className="mr-2 mb-4 text-3xl text-bold" >Salut, je suis</span>
+                                <h1 className="animated animated-text p-4 ">
+                                    <span className="mr-2 mb-4 text-3xl font-bold" >Salut, je suis</span>
                                         <div className="animated-info">
                                             <span className="animated-item">Sam SANDJA</span>
                                             <span className="animated-item">Développeur </span>
@@ -16,7 +16,7 @@ const About = () => {
                                         </div>
                                 </h1>
                                 <p></p><p></p>
-                                <p className="presentation"> Spécialisé dans la création de sites modernes, performants et adaptés à vos besoins, je m'engage à donner vie à vos idées en ligne. Découvrez ici mes projets, compétences et collaborations. Bonne visite !"</p>
+                                <p className="presentation mb-4"> Spécialisé dans la création de sites modernes, performants et adaptés à vos besoins, je m'engage à donner vie à vos idées en ligne. Découvrez ici mes projets, compétences et collaborations. Bonne visite !"</p>
                                 <div className="custom-btn-group mt-4">
                                 <a href="#project" className="btn mr-lg-2 custom-btn"> Projets</a>
                                 <a href="#contact" className="btn custom-btn custom-btn-bg custom-btn-link">Obtenez un devis gratuit</a>
