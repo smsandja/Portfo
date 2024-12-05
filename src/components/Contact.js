@@ -24,7 +24,7 @@ const Contact = () => {
 
                     <div className="col-lg-6 col-12">
                         <div className="contact-form">
-                        <h2 className="mb-4">Besoin d'un service ? Expliquez-nous !</h2>
+                        <h2 className="mb-4 text-4xl font-bold">Besoin d'un service ? Expliquez-nous !</h2>
 
                         <form action="" method="get">
                             <div className="row">

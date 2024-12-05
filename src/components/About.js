@@ -5,10 +5,10 @@ const About = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-7 col-md-12 col-12 d-flex align-items-center">
-                            <div className="about-text">
+                            <div className="about-text ">
                                 <h5 className="text-info py-10 text-xl font-bold">Bienvenue sur <span className="mobile-block">mon portfolio !</span></h5>
-                                <h1 className="animated animated-text">
-                                    <span className="mr-2 mb-4 pb-4 text-3xl text-bold" >Salut, je suis</span>
+                                <h1 className="animated animated-text mb-4">
+                                    <span className="mr-2 mb-4 text-3xl text-bold" >Salut, je suis</span>
                                         <div className="animated-info">
                                             <span className="animated-item">Sam SANDJA</span>
                                             <span className="animated-item">Développeur </span>
